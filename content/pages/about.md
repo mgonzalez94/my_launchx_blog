@@ -5,17 +5,16 @@ menu:
     name: "AboutMe"
 ---
 
-## Who am I
+## ¿Quien soy?
 
-Hola, aquí vas a leer un poco sobre mi 🤩
+¡Hola!, me presento, mi nombre es Miguel Ángel González Romero, pero para los amigos soy M@ik.
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+Soy egresado de la Universidad Tecnológica del Centro de Veracruz, cómo Ing. en Tecnologías de la Información, actualmente laboró en el sector financiero en una SOFIPO.
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+Me agrada la pizza, así como el metal vegetariano progresivo, compartir lo poco o mucho que pueda saber sobre algún tema (Y si no sabemos lo googleamos).
 
+Una de las cosas que más me agradan de esta profesión, es que siempre puedes encontrar la manera de integrarte con otras áreas y de esta manera contribuir a que se resuelvan muchos temas.
+
+En algún momento quisiera retomar el mundillo de la ciencia de datos.
+
+En pocas palabras, solo soy un soñador con insomnio (Qué le gusta la pizza).
